@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/cxl/slambook2/lidar_slam_basic/ch1/ros/devel/setup.sh

@@ -1,0 +1,2 @@
+helloslam
+-DCATKIN_DEVEL_PREFIX=/home/cxl/slambook2/lidar_slam_basic/ch1/ros/devel -DCMAKE_INSTALL_PREFIX=/home/cxl/slambook2/lidar_slam_basic/ch1/ros/install -G Unix Makefiles
