@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cxl/workspace/lidar_slam_basic/ch1/sophus/example/trajectoryError.cpp
+iostream
+-
+fstream
+-
+unistd.h
+-
+pangolin/pangolin.h
+-
+sophus/se3.hpp
+-
+
